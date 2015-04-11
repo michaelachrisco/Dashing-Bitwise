@@ -1,0 +1,27 @@
+---
+convergence: |+
+  data: {"points":[{"x":202,"y":40},{"x":203,"y":15},{"x":204,"y":36},{"x":205,"y":47},{"x":206,"y":41},{"x":207,"y":38},{"x":208,"y":4},{"x":209,"y":4},{"x":210,"y":49},{"x":211,"y":33}],"id":"convergence","updatedAt":1428717052}
+
+buzzwords: |+
+  data: {"items":[{"label":"Paradigm shift","value":17},{"label":"Web 2.0","value":26},{"label":"Streamlininess","value":25},{"label":"Turn-key","value":19},{"label":"Leverage","value":23},{"label":"Pivoting","value":17},{"label":"Enterprise","value":27},{"label":"Synergy","value":22},{"label":"Exit strategy","value":25}],"id":"buzzwords","updatedAt":1428717052}
+
+valuation: |+
+  data: {"current":68,"last":68,"id":"valuation","updatedAt":1428717052}
+
+karma: |+
+  data: {"current":173245,"last":66027,"id":"karma","updatedAt":1428717052}
+
+synergy: |+
+  data: {"value":79,"id":"synergy","updatedAt":1428717052}
+
+welcome: |+
+  data: {"text":"Welcome to the IT Department","id":"welcome","updatedAt":1423521213}
+
+pull_requests: |+
+  data: {"header":"Open Pull Requests","pulls":[{"title":"S3","repo":"ap-workflow","updated_at":"Apr 7 2015,  6:04 PM","creator":"@josephbridgwaterrowe"},{"title":"Explicit update on Knackhq objects.","repo":"hay-app","updated_at":"Apr 11 2015, 12:04 AM","creator":"@michaelachrisco"},{"title":"Crono Replace Wherever","repo":"hay-app","updated_at":"Apr 9 2015, 10:04 PM","creator":"@michaelachrisco"},{"title":"Initial models, migrated from chancellor models.","repo":"entity_models","updated_at":"Mar 9 2015, 11:03 PM","creator":"@josephbridgwaterrowe"}],"id":"pull_requests","updatedAt":1428717020}
+
+github_feed: |+
+  data: {"items":[{"commit_sha":"94b4b53387a1a2e263fb89f544adf757e36c64ff","message":"Explicit update on knack objects.","author":"michaelachrisco","url":"https://api.github.com/repos/westernmilling/hay-app/commits/94b4b53387a1a2e263fb89f544adf757e36c64ff","branch":"explicit_knackhq_objects","avatar_url":"https://avatars.githubusercontent.com/u/398491?","ago":"1 hours ago","title":"michaelachrisco pushed explicit_knackhq_objects at westernmilling/hay-app"},{"commit_sha":"f50dbcf7d2a170b19005790dd2d2e74654d72834","message":"Update Interactors","author":"michaelachrisco","url":"https://api.github.com/repos/westernmilling/hay-app/commits/f50dbcf7d2a170b19005790dd2d2e74654d72834","branch":"update_knackhq_records","avatar_url":"https://avatars.githubusercontent.com/u/398491?","ago":"2 hours ago","title":"michaelachrisco pushed update_knackhq_records at westernmilling/hay-app"},{"commit_sha":"d3d82ce515779b2f534888de0222e3d35d12b9fd","message":"Update Interactors","author":"michaelachrisco","url":"https://api.github.com/repos/westernmilling/hay-app/commits/d3d82ce515779b2f534888de0222e3d35d12b9fd","branch":"update_knackhq_records","avatar_url":"https://avatars.githubusercontent.com/u/398491?","ago":"4 hours ago","title":"michaelachrisco pushed update_knackhq_records at westernmilling/hay-app"},{"commit_sha":"094265905cc7d89b48fa889b563fc5339f15533e","message":"snapshot fixme","author":"michaelachrisco","url":"https://api.github.com/repos/westernmilling/hay-app/commits/094265905cc7d89b48fa889b563fc5339f15533e","branch":"update_knackhq_records","avatar_url":"https://avatars.githubusercontent.com/u/398491?","ago":"6 hours ago","title":"michaelachrisco pushed update_knackhq_records at westernmilling/hay-app"},{"commit_sha":"b557404a11a2044ec720436c328f7a06e6f5c77f","message":"Base nginx conf.","author":"josephbridgwaterrowe","url":"https://api.github.com/repos/westernmilling/chef-cookbooks/commits/b557404a11a2044ec720436c328f7a06e6f5c77f","branch":"crude_base_recipes","avatar_url":"https://avatars.githubusercontent.com/u/1495123?","ago":"7 hours ago","title":"josephbridgwaterrowe pushed crude_base_recipes at westernmilling/chef-cookbooks"}],"id":"github_feed","updatedAt":1428717041}
+
+beer: |
+  data: {"beer":"yes","id":"beer","updatedAt":1423256695}
